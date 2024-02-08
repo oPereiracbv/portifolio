@@ -1,0 +1,14 @@
+body{
+    background-color: slategrey;
+    margin: 50px;
+}
+
+.profile-img{
+    border-radius: 50%;
+}
+
+.container{
+    max-width:800px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
